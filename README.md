@@ -1,5 +1,5 @@
-# EduPerience
-<!DOCTYPE html>
+
+
 <html>
   <head>
     <link rel="stylesheet" href="stylesheet.css">
@@ -7,7 +7,6 @@
     <title>Progate</title>
   </head>
   <body>
-    
     <header>
       <div class="header-logo">EduPerience</div>
       <div class="header-list">
@@ -20,8 +19,8 @@
     </header>
 
     <main>
-      <h1 class="title">HTML & CSS の開発環境を用意しよう！</h1>
-      <p>自分のPCでWebページを開発する方法を学習しましょう</p>
+      <h1 class="title">一緒にがんばりましょう！</h1>
+      <p>継続が大事です</p>
     </main>
 
   </body>
